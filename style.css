@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    font-family: "Roboto", sans-serif;
+}
+.container .navbar .nav-link {
+    color:  #005e70!important;
+}
+.container .navbar .active {
+    background-color: #005e70 !important;
+    color: #d6b79d!important;
+}
+.items {
+    padding-top: 15px;
+}
+.items .btn {
+    background-color: #005e70 !important;
+    color: #d6b79d!important;
+    border-color: #005e70!important;
+    border-radius: 25px;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navbar{
+    margin: 0 auto;
+}
+.navigation h1 {
+    padding-top: 10px;
+    font-weight: 700;
+}
+.navigation h1 a {
+    text-decoration: none;
+    color: black;
+}
+.owner {
+    margin-top: 35px;
+}
+
+.card {
+    margin-top: 10px;
+    margin-bottom: 15px;
+} 
+
+form button {
+    background-color: #005e70 !important;
+    color: #d6b79d!important;
+    border-color: #005e70!important;
+}
+.col-md-12 a {
+    color: red;
+}
